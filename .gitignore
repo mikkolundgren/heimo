@@ -1,0 +1,7 @@
+/.vscode
+/data
+/models
+*.pyc
+*.log
+*.db
+/__pycache__
